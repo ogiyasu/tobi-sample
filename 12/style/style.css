@@ -1,0 +1,47 @@
+body{
+  width: 100%;
+  max-width: 640px;
+  margin: 0 auto;  
+}
+
+.work-list img{
+  width: 100%;
+}
+
+.work-list{
+	padding-left:20px;
+  padding-right:20px;
+}
+
+.work-list article{
+	margin-bottom:50px;
+}
+
+.work-list {
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+.work-list article{
+  /* width: 50%; */
+} 
+
+.work-list h2{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.work-list p{
+  font-family: Noto Sans JP;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 26px;
+  color: #000000;
+}
+
+
